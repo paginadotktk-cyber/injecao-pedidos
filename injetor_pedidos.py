@@ -4,7 +4,7 @@ import uuid
 from datetime import datetime, timezone, timedelta
 
 url = "https://api.utmify.com.br/api-credentials/orders"
-token = "AAqWMWSWaaY3X56E482A9igntGOcipUKufLG"
+token = "zZ6095MU1lEBKmJ4xluZxIMbVh5pnBiATart"
 
 headers = {
     "x-api-token": token,
